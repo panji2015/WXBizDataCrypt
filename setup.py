@@ -12,14 +12,14 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="WXBizDataCrypt",
-    version="0.1.0",
+    name="wxdc",
+    version="0.1.5",
     keywords=("pip", "wxdc"),
     description="wx data crypt",
     long_description="微信加密数据解密",
     license="MIT Licence",
 
-    url="https://https://github.com/panji2015/WXBizDataCrypt",
+    url="https://github.com/panji2015/WXBizDataCrypt",
     author="panji",
     author_email="484511231@qq.com",
 

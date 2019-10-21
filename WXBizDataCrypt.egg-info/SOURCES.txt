@@ -1,7 +1,0 @@
-README.md
-setup.py
-WXBizDataCrypt.egg-info/PKG-INFO
-WXBizDataCrypt.egg-info/SOURCES.txt
-WXBizDataCrypt.egg-info/dependency_links.txt
-WXBizDataCrypt.egg-info/requires.txt
-WXBizDataCrypt.egg-info/top_level.txt

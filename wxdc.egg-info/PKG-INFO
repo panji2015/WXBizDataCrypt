@@ -1,8 +1,8 @@
 Metadata-Version: 1.0
-Name: WXBizDataCrypt
-Version: 0.1.0
+Name: wxdc
+Version: 0.1.5
 Summary: wx data crypt
-Home-page: https://https://github.com/panji2015/WXBizDataCrypt
+Home-page: https://github.com/panji2015/WXBizDataCrypt
 Author: panji
 Author-email: 484511231@qq.com
 License: MIT Licence
